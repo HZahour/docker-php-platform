@@ -1,9 +1,0 @@
-# Docker Image of PHP Development Platform
-
-The apps are installed in [hzahour/php-platform:1.0](https://hub.docker.com/r/hzahour/php-platform)
-- Debian v12.2
-- Apache v2.4.57 (Debian)
-- php v8.2.12
-- composer v2.6.5
-- nodejs v18.13.0
-- npm v9.2.0
